@@ -10,11 +10,11 @@ Use this command for usage help .
 python3 main.py -h
 ```
 
-## Set Config File
+## Run
 
 You can set parameter of similation using config files.
 
-For instance, use this command to set config file "config/test.json".
+For instance, use this command to run the program by a default config.
 
 ```bash
 python3 main.py -p "config/default.json"
